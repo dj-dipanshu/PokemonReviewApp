@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dipanshu.Jindal\\Desktop\\Practice\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\Project\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dipanshu.Jindal\\Desktop\\Practice\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\Project\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dipanshu.Jindal\\Desktop\\Practice\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Project\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
         "projectName": "PokemonReviewApp",
-        "projectPath": "C:\\Users\\Dipanshu.Jindal\\Desktop\\Practice\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
-        "packagesPath": "C:\\Users\\Dipanshu.Jindal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dipanshu.Jindal\\Desktop\\Practice\\PokemonReviewApp\\PokemonReviewApp\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Project\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Project\\PokemonReviewApp\\PokemonReviewApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dipanshu.Jindal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
