@@ -11,6 +11,7 @@ namespace PokemonReviewApp.Interfaces
         decimal GetPokemonRating(int pokeID);
         bool PokemonExists(int pokeID);
         bool CreatePokemon(int ownerId, int categoryId, Pokemon pokemon);
+        bool UpdatePokemon(int ownerId, int categoryId, Pokemon pokemon);
         bool Save();
         Pokemon GetPokemonTrimToUpper(PokemonDto pokemonCreate);
     }
